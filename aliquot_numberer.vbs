@@ -1,4 +1,4 @@
-' NAME:	FreezerPro_aliquote.vbs
+' NAME:	aliquot_numberer.vbx
 ' AUTHOR: Henrik Vestin Uppsala Biobank
 ' DATE: 2021 03 15
 ' HISTORY: 1.01 initial version
