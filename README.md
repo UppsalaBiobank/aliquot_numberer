@@ -1,2 +1,2 @@
-# aliqutote_numberer
-Simple script to use a FreezerPro export to set aliquote number based on "Key"-value
+# aliquot_numberer
+Simple script to use a FreezerPro export to set aliquot number based on "Key"-value
